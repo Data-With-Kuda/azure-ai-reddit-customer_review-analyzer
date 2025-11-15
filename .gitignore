@@ -1,0 +1,10 @@
+# Environment and cache
+.env
+__pycache__/
+venv/
+.cache/
+
+# Generated outputs
+*.csv
+*.docx
+*.log
